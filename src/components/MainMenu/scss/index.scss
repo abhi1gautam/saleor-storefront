@@ -52,6 +52,16 @@
         width: 6rem;
       }
     }
+
+    img {
+      width: 8rem;
+      padding-top: 15px;
+      padding-bottom: 10px;
+
+      @media (min-width: $small-screen) {
+        width: 9rem;
+      }
+    }
   }
 
   &__item {

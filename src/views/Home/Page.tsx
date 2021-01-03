@@ -53,7 +53,7 @@ const Page: React.FC<{
           <div>
             <span className="home-page__hero__title">
               <h1>
-                <FormattedMessage defaultMessage="Up to 70% off sale" />
+                <FormattedMessage defaultMessage="Up to 71% off sale" />
               </h1>
             </span>
           </div>
