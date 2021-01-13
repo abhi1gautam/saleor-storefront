@@ -39,7 +39,7 @@ export const fridayPurpleLight= "#B86BD4";
 export const fridayPurpleDark= "#94275A";
 
 
-export const fridayMixedBlue = "#A7CCED"
+export const fridayMixedBlue = "#A7CCED";
 
 
 // theme colors
