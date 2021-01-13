@@ -46,14 +46,14 @@ const Page: React.FC<{
           <div>
             <span className="home-page__hero__title">
               <h1>
-                <FormattedMessage defaultMessage="Shop in our very own" />
+                <FormattedMessage defaultMessage="भारी छुट सहित" />
               </h1>
             </span>
           </div>
           <div>
             <span className="home-page__hero__title">
               <h1>
-                <FormattedMessage defaultMessage="Friday Pasal" />
+                <FormattedMessage defaultMessage="Friday पसल" />
               </h1>
             </span>
           </div>

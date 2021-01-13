@@ -28,12 +28,26 @@ export const secondaryGrey = "#EBF1F6";
 export const secondaryGreyDark = "#9D9FB1";
 export const secondaryBlue = "#036DFF";
 
+export const fridayPink = "#C039B2";
+
+export const fridayBlue= "#1A64BD";
+export const fridayBlueLight = "#3694C8";
+export const fridayBlueDark = "#1438A8";
+
+export const fridayPurple= "#C039B2";
+export const fridayPurpleLight= "#B86BD4";
+export const fridayPurpleDark= "#94275A";
+
+
+export const fridayMixedBlue = "#A7CCED"
+
+
 // theme colors
 export const theme = {
   activeMenuOption: darkGreen,
   autofill: autofillColor,
   autofillSelected: autofillColorSelected,
-  bannerBackground: secondaryGrey,
+  bannerBackground: fridayMixedBlue,
   bannerEdge: secondaryGreyDark,
   bannerLink: secondaryBlue,
   baseFont: baseFontColor,
@@ -50,13 +64,13 @@ export const theme = {
   listAttributeName: baseFontColorSemiTransparent,
   listBullet: darkGreen,
   overlay: overlayColor,
-  primary: turquoise,
-  primaryDark: turquoiseDark,
-  primaryLight: turquoiseLight,
+  primary: fridayBlue,
+  primaryDark: fridayBlueDark,
+  primaryLight: fridayBlueLight,
   primaryTransparent: turquoiseTransparent,
-  secondary: blue,
-  secondaryDark: blueDark,
-  secondaryLight: blueLight,
+  secondary: fridayPurple,
+  secondaryDark: fridayPurpleDark,
+  secondaryLight: fridayPurpleLight,
   secondaryOverlay: blueOverlay,
   secondaryOverlayDark: blueOverlayDark,
   success: green,
