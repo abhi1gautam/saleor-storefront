@@ -217,5 +217,15 @@
     "extract-json-messages": "rimraf dist/locale && cross-env NODE_ENV=extract babel src 'src/**/*.{ts,tsx}' -o /dev/null",
     "transpile-messages": "node scripts/transpile-tx.js",
     "extract-messages": "npm run extract-json-messages && npm run transpile-messages"
-  }
+  },
+  "eslintConfig": {
+  "extends": [
+    "react-app",
+    "plugin:prettier/recommended"
+  ],
+  "ignorePatterns": [
+    "node_modules/",
+    "build/"
+  ]
+}
 }
