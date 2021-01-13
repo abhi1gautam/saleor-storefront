@@ -30,15 +30,13 @@ export const secondaryBlue = "#036DFF";
 
 export const fridayPink = "#C039B2";
 
-export const fridayBlue= "#1A64BD";
+export const fridayBlue = "#1A64BD";
 export const fridayBlueLight = "#3694C8";
 export const fridayBlueDark = "#1438A8";
 
-export const fridayPurple= "#C039B2";
-export const fridayPurpleLight= "#B86BD4";
-export const fridayPurpleDark= "#94275A";
-
-
+export const fridayPurple = "#C039B2";
+export const fridayPurpleLight = "#B86BD4";
+export const fridayPurpleDark = "#94275A";
 export const fridayMixedBlue = "#A7CCED";
 
 
